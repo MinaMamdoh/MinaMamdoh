@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MinaMamdoh
+- 👋 Hi, I’m @Mina Mamdouh
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Business Intelligence
 - 💞️ I’m looking to collaborate on ...
